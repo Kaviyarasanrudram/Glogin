@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200475614067",
+    "project_id": "glogin-667f4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200475614067:android:a4cae87fb3cb9dff",
+        "android_client_info": {
+          "package_name": "com.example.dell.glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200475614067-a7i7v0u75alifm3jvmtcrq24vsligk99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.glogin",
+            "certificate_hash": "DFBB37E749A6F28F408168C699B64F9DB1977E40"
+          }
+        },
+        {
+          "client_id": "200475614067-jehvnpbr0589qmedh6di5rnbnbscg46b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHAb6HRUNDbwRuWJU5a99gLY3u-pUaKvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
